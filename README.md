@@ -1,3 +1,3 @@
 # urchin-examples
 
-Storage for example notebooks, see [https://virtualbrainlab.org/urchin/tutorial.html](Urchin tutorials) for more information.
+Storage for example notebooks, see [Urchin tutorials](https://virtualbrainlab.org/urchin/tutorial.html) for more information.
