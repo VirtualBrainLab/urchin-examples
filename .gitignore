@@ -164,3 +164,4 @@ ottenheimer_hjort_bowen_2022/imgs/*.mp4
 **/data/*
 urchin-venv/*
 .DS_Store
+histology/temp.npy
