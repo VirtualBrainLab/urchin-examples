@@ -168,3 +168,4 @@ urchin-venv/*
 .DS_Store
 histology/temp.npy
 basics/*.mp4
+macaque/A22070 dynsavgd.nii
