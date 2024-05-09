@@ -169,3 +169,4 @@ urchin-venv/*
 histology/temp.npy
 basics/*.mp4
 macaque/A22070 dynsavgd.nii
+kevin/180min_cfos_stack.tiff
